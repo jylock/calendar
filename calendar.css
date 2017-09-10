@@ -1,0 +1,15 @@
+.days_in_month{
+	background-color: #C2F2D9
+}
+
+.today{
+	background-color: #F2C2D8
+}
+
+th{
+    background-color: #FFFF66;
+ }
+
+ td:hover {
+    background-color: #5cb85c;
+ }
